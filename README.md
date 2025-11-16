@@ -6,4 +6,5 @@ cmake ..\
 cmake --build .
 
 Запуск:
+
 ./task1 (./task2 или ./task3)
